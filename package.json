@@ -6,9 +6,9 @@
 	"exports": "./src/index.ts",
 	"scripts": {
 		"dev": "nodemon -e ts,json --exec 'ts-node --esm src/index.ts'",
-		"test": "xo && jest",
+		"test": "jest",
 		"beautify": "prettier . --write",
-		"lint": "xo",
+		"lint": "xo --fix",
 		"format": "npm run beautify && npm run lint",
 		"prepare": "husky install"
 	},
