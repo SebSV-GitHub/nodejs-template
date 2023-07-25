@@ -1,2 +1,8 @@
-# nodejs-template
-Node.js template
+# Node.js Template
+
+- Typescript
+- Jest
+- ESM
+- XO
+- Prettier
+- Editorconfig
