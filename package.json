@@ -33,7 +33,6 @@
 	"homepage": "https://github.com/SebSV-GitHub/nodejs-template#readme",
 	"devDependencies": {
 		"@types/jest": "^29.5.4",
-		"concurrently": "^8.2.1",
 		"husky": "^8.0.3",
 		"jest": "^29.6.4",
 		"prettier": "^3.0.3",
